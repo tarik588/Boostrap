@@ -19,6 +19,9 @@ files, it will automatically build your project and update your browser without 
 
 ![WebStorm Gulp Config](screenshots/gulp.png)
 
+ScreenShot of Website 
+![Screenshot of Website](screenshots/webss.PNG)
+
 # Readings
 * [What is Bootstrap?](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
 * [What is GULP? <- You need to follow this or it won't work](https://www.sitepoint.com/introduction-gulp-js/)
